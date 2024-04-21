@@ -3,9 +3,9 @@
 Quickstart Guide
 
  - Clone this repository
- - create a `.env` file and set the groq api key or `export GROQ_API_KEY=<your-api-key-here>`
- - install all the required packages using `requirements.txt`
- - run the app.py file using `streamlit run app.py`
+ - Create a `.env` file and set the groq api key or `export GROQ_API_KEY=<your-api-key-here>`
+ - Install all the required packages using `requirements.txt`
+ - Run the app.py file using `streamlit run app.py`
 
 Features
 
