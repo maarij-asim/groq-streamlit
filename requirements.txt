@@ -1,0 +1,4 @@
+streamlit
+streamlit_chat
+groq
+python-dotenv
