@@ -11,6 +11,7 @@ Features
 
  - Simple and Beautiful UI using Streamlit
  - Option of modifying parameters such as Model, System Message, Max Tokens, Temperature.
+ - Streaming enabled for more immersive user experience. 
 
 Future Implementations
 
